@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e2c1159-5c3d-4f84-a04e-55631dabbfcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Mailing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/templates/mailing/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/templates/mailing/client_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/templates/mailing/client_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/templates/mailing/client_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/templates/mailing/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/templates/mailing/mailing_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mailing/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="3e2c1159-5c3d-4f84-a04e-55631dabbfcb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
