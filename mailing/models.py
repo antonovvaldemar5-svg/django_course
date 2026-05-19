@@ -77,7 +77,8 @@ class Mailing(models.Model):
         else:
             self.status = 'completed'
 
-    def current_status(self):
+    @property
+    def status_display(self):
         now = timezone.now()
         if now < self.start_time:
             return 'created'
@@ -86,10 +87,12 @@ class Mailing(models.Model):
         else:
             return 'completed'
 
-    def success_attempts_count(self):
+    @property
+    def success_attempts(self):
         return self.attempts.filter(status='success').count()
 
-    def failed_attempts_count(self):
+    @property
+    def failed_attempts(self):
         return self.attempts.filter(status='failed').count()
 
 
